@@ -1,4 +1,4 @@
-### Olá! Eu sou André Lucas 👋
+### Olá! Eu sou André Santos 👋
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas pelo IFBA (Instituto federal da Bahia);
 - 🌱 Estudando Python e NLP;
